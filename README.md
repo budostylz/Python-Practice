@@ -4,6 +4,8 @@
 
 [Order of Operations](http://mathforum.org/dr.math/faq/faq.order.operations.html)
 
+![Binary](https://github.com/budostylz/Python-Practice/blob/Data_Types_and_Operators/binary.jpg)
+
 ```python
 # Write an expression that calculates the average of 23, 32 and 64
 # Place the expression in this print statement
