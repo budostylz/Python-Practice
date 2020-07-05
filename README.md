@@ -1,4 +1,4 @@
-# Python-Practice
+# Data Types and Operators
 
 [Python 3.8.4rc1 documentation](https://docs.python.org/3/)
 
