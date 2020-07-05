@@ -49,6 +49,9 @@ arr = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
 print(arr[2:6])
 print(arr[:3])
 print(arr[4:])
+print(arr[len(arr)-1])
+
+
 
 
 
