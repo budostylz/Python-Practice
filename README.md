@@ -6,6 +6,9 @@
 
 [Python Style Guide](https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces)
 
+[truthy](https://github.com/budostylz/Python-Practice/blob/Control_Flow/truthy.PNG)
+
+
 
 ## Conditional Statements
 
