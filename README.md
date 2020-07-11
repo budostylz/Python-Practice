@@ -2,7 +2,7 @@
 
 [Python 3.8.4rc1 documentation](https://docs.python.org/3/)
 
-
+## List
 
 ```python
 
@@ -51,6 +51,12 @@ print(arr[:3])
 print(arr[4:])
 print(arr[len(arr)-1])
 
+
+```
+
+## Tuples
+
+```python
 # Tuples
 dimensions = 52, 40, 100
 length, width, height = dimensions # Tuple Unpacking
@@ -64,6 +70,13 @@ tuple_b = (1, 2)
 
 print(tuple_a == tuple_b)
 print(tuple_a[1])
+
+
+```
+
+## Sets
+
+```python
 
 # Sets
 numbers = [1, 2, 6, 3, 1, 1, 6]
@@ -80,6 +93,12 @@ print(fruit)
 
 print(fruit.pop())  # remove a random element
 print(fruit)
+
+```
+
+## Dictionary
+
+```python
 
 # Dictionaries And Identity Operators
 elements = {"hydrogen": 1, "helium": 2, "carbon": 6}
@@ -127,5 +146,40 @@ elements['dilithium']
 elements.get('kryptonite', 'There\'s no such element!')
 "There's no such element!"
 
+
+```
+
+## Compound Data Structures
+
+```python
+
+elements = {"hydrogen": {"number": 1,
+                         "weight": 1.00794,
+                         "symbol": "H"},
+              "helium": {"number": 2,
+                         "weight": 4.002602,
+                         "symbol": "He"}}
+
+
+helium = elements["helium"]  # get the helium dictionary
+hydrogen_weight = elements["hydrogen"]["weight"]  # get hydrogen's weight
+
+oxygen = {"number":8,"weight":15.999,"symbol":"O"}  # create a new oxygen dictionary 
+elements["oxygen"] = oxygen  # assign 'oxygen' as a key to the elements dictionary
+print('elements = ', elements)
+
+
+
+#Output
+
+elements =  {"hydrogen": {"number": 1,
+                          "weight": 1.00794,
+                          "symbol": 'H'},
+               "helium": {"number": 2,
+                          "weight": 4.002602,
+                          "symbol": "He"}, 
+               "oxygen": {"number": 8, 
+                          "weight": 15.999, 
+                          "symbol": "O"}}
 
 ```
