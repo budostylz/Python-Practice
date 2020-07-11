@@ -51,8 +51,81 @@ print(arr[:3])
 print(arr[4:])
 print(arr[len(arr)-1])
 
+# Tuples
+dimensions = 52, 40, 100
+length, width, height = dimensions # Tuple Unpacking
+print("The dimensions are {} x {} x {}".format(length, width, height))
+
+length, width, height = 52, 40, 100
+print("The dimensions are {} x {} x {}".format(length, width, height))
+
+tuple_a = 1, 2
+tuple_b = (1, 2)
+
+print(tuple_a == tuple_b)
+print(tuple_a[1])
+
+# Sets
+numbers = [1, 2, 6, 3, 1, 1, 6]
+unique_nums = set(numbers)
+print(unique_nums)
 
 
+fruit = {"apple", "banana", "orange", "grapefruit"}  # define a set
+
+print("watermelon" in fruit)  # check for element
+
+fruit.add("watermelon")  # add an element
+print(fruit)
+
+print(fruit.pop())  # remove a random element
+print(fruit)
+
+# Dictionaries And Identity Operators
+elements = {"hydrogen": 1, "helium": 2, "carbon": 6}
+
+print(elements["helium"])  # print the value mapped to "helium"
+elements["lithium"] = 3  # insert "lithium" with a value of 3 into the dictionary
+
+n = elements.get("dilithium")
+print(n is None)
+print(n is not None)
+
+# Define a Dictionary, population,
+# that provides information
+# on the world's largest cities.
+# The key is the name of a city
+# (a string), and the associated
+# value is its population in
+# millions of people.
+
+#   Key     |   Value
+# Shanghai  |   17.8
+# Istanbul  |   13.3
+# Karachi   |   13.0
+# Mumbai    |   12.5
+
+population = {
+    "Shanghai": 17.8,
+    "Istanbul": 13.3,
+    "Karachi": 13.0,
+    "Mumbai": 12.5
+    
+}
+
+print(population)
+
+#get with a Default Value
+#Dictionaries have a related method that's also useful, get(). get() looks up values in a dictionary, but unlike looking up #values with square brackets, get() returns None (or a default value of your choice) if the key isn't found. If you expect #lookups to sometimes fail, get() might be a better tool than normal square bracket lookups.
+
+elements.get('dilithium')
+#None
+
+elements['dilithium']
+#KeyError: 'dilithium'
+
+elements.get('kryptonite', 'There\'s no such element!')
+"There's no such element!"
 
 
 ```
