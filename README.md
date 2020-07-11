@@ -205,4 +205,41 @@ for i in range(5, 35, 5):
 #25
 #30
 
+
+names = ["Joey Tribbiani", "Monica Geller", "Chandler Bing", "Phoebe Buffay"]
+usernames = []
+
+# write your for loop here
+for username in names:
+    username = username.replace(' ', '_').lower()
+    usernames.append(username)
+
+print(usernames)
+
+
+usernames = ["Joey Tribbiani", "Monica Geller", "Chandler Bing", "Phoebe Buffay"]
+
+# write your for loop here
+for i in range(len(usernames)):
+    usernames[i] = usernames[i].replace(' ', '_').lower()
+
+
+print(usernames)
+
+
+items = ['first string', 'second string']
+html_str = "<ul>\n"          # The "\n" here is the end-of-line char, causing
+                             # chars after this in html_str to be on next line
+
+for item in items:
+    html_str += "<li>{}</li>\n".format(item)
+html_str += "</ul>"
+
+print(html_str)
+
+#<ul>
+#<li>first string</li>
+#<li>second string</li>
+#</ul>
+
 ```
