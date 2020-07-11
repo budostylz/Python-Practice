@@ -193,4 +193,16 @@ cities = ['new york city', 'mountain view', 'chicago', 'los angeles']
 
 for index in range(len(cities)):
     cities[index] = cities[index].title()
+
+# Write a for loop below that will print out every whole number that is a multiple of 5 and less than or equal to 30.
+for i in range(5, 35, 5):
+    print(i)
+
+#5
+#10
+#15
+#20
+#25
+#30
+
 ```
