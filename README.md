@@ -4,6 +4,8 @@
 
 [Python Reference](https://www.w3schools.com/python/python_reference.asp)
 
+![Python Data Structures](https://github.com/budostylz/Python-Practice/blob/Data_Structures/data_structure_list.PNG)
+
 ## List
 
 ```python
