@@ -8,6 +8,9 @@
 
 [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
 
+[Jack Diederich - HOWTO Write a Function - PyCon 2018](https://www.youtube.com/watch?v=rrBJVMyD-Gs&feature=youtu.be)
+
+[Improve Your Python: 'yield' and Generators Explained](https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/)
 
 ## Defining Functions
 
