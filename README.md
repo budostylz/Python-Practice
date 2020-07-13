@@ -12,6 +12,8 @@
 
 [How do you split a list into evenly sized chunks?](https://stackoverflow.com/questions/312443/how-do-you-split-a-list-into-evenly-sized-chunks)
 
+![Generator Expressions](https://github.com/budostylz/Python-Practice/blob/Advance_Topics/generator_expression.PNG)
+
 ## Iterators And Generators
 
 
