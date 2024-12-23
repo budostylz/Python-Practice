@@ -20,5 +20,8 @@
 ## Why is 80 characters the 'standard' limit for code width?
 [Why is 80 characters the 'standard' limit for code width?](https://softwareengineering.stackexchange.com/questions/148677/why-is-80-characters-the-standard-limit-for-code-width)
 
+## Errors and Exceptions
+[Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
+
 
 
