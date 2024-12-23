@@ -29,5 +29,8 @@
 ## len
 [len](https://docs.python.org/2/library/functions.html#len)
 
+## Format String Syntax
+[Format String Syntax](https://docs.python.org/3.6/library/string.html#format-string-syntax)
+
 
 
