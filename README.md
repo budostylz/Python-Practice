@@ -23,5 +23,8 @@
 ## Errors and Exceptions
 [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
 
+## How George Boole’s zeroes and ones changed the world
+[How George Boole’s zeroes and ones changed the world](https://www.irishtimes.com/news/science/how-george-boole-s-zeroes-and-ones-changed-the-world-1.2014673)
+
 
 
