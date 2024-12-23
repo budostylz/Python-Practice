@@ -8,5 +8,8 @@
 ## Python Operators
 [Python Operators](https://www.programiz.com/python-programming/operators)
 
+## Scientific notation
+[Scientific notation](https://en.wikipedia.org/wiki/Scientific_notation)
+
 
 
