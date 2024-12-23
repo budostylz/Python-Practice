@@ -11,5 +11,8 @@
 ## Scientific notation
 [Scientific notation](https://en.wikipedia.org/wiki/Scientific_notation)
 
+## Floating-Point Arithmetic: Issues and Limitations
+[Floating-Point Arithmetic: Issues and Limitations](https://docs.python.org/3/tutorial/floatingpoint.html)
+
 
 
