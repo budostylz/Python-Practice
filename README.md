@@ -5,5 +5,8 @@
 ## Python Keywords
 [Keywords](https://docs.python.org/3/reference/lexical_analysis.html#keywords)
 
+## Python Operators
+[Python Operators](https://www.programiz.com/python-programming/operators)
+
 
 
