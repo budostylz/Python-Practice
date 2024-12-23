@@ -32,5 +32,8 @@
 ## Format String Syntax
 [Format String Syntax](https://docs.python.org/3.6/library/string.html#format-string-syntax)
 
+## String Methods
+[String Methods](https://docs.python.org/3/library/stdtypes.html#string-methods)
+
 
 
