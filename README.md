@@ -26,5 +26,8 @@
 ## How George Boole’s zeroes and ones changed the world
 [How George Boole’s zeroes and ones changed the world](https://www.irishtimes.com/news/science/how-george-boole-s-zeroes-and-ones-changed-the-world-1.2014673)
 
+## len
+[len](https://docs.python.org/2/library/functions.html#len)
+
 
 
